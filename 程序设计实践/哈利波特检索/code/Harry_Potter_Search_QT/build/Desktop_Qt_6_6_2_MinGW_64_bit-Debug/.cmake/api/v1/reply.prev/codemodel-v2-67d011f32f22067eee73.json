@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a15afb3478df5b16ffd9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Harry_Potter_Search",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Harry_Potter_Search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Harry_Potter_Search-Debug-94ee475f3b001c246f8a.json",
+					"name" : "Harry_Potter_Search",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Harry_Potter_Search_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Harry_Potter_Search_autogen-Debug-b2d3f8668134069fc825.json",
+					"name" : "Harry_Potter_Search_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Harry_Potter_Search_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Harry_Potter_Search_autogen_timestamp_deps-Debug-b49f0482883127358bce.json",
+					"name" : "Harry_Potter_Search_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/QtDocuments/Harry_Potter_Search/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "E:/QtDocuments/Harry_Potter_Search"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

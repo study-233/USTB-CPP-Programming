@@ -1,0 +1,9 @@
+# ninja log v6
+10	836	7399950058842484	Harry_Potter_Search_autogen/timestamp	68ef6bc1e1ca1080
+10	836	7399950058842484	Harry_Potter_Search_autogen/mocs_compilation.cpp	68ef6bc1e1ca1080
+10	836	7399950058842484	E:/QtDocuments/Harry_Potter_Search/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/Harry_Potter_Search_autogen/timestamp	68ef6bc1e1ca1080
+10	836	7399950058842484	E:/QtDocuments/Harry_Potter_Search/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/Harry_Potter_Search_autogen/mocs_compilation.cpp	68ef6bc1e1ca1080
+836	2121	7399950060442487	CMakeFiles/Harry_Potter_Search.dir/Harry_Potter_Search_autogen/mocs_compilation.cpp.obj	72bc1157e3551504
+855	2169	7399950060632491	CMakeFiles/Harry_Potter_Search.dir/main.cpp.obj	a212e0b73b2dc48f
+876	2934	7399950060842483	CMakeFiles/Harry_Potter_Search.dir/mainwindow.cpp.obj	395aa925f38a11e3
+2935	3157	7399950081422844	Harry_Potter_Search.exe	14b00388434ca68e
